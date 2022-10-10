@@ -37,7 +37,11 @@
 
     ////////////////////////////////////////////////////////////////////////
     // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
-
+    type.db         // worth 10 points
+    type.max        // worth 20 points
+    type.steve      // worth 30 points
+    type.grace      // worth 40 points
+    type.kennedi    // worth 50 points
     // example:
     createCollectable(type.steve, 200, 170, 6, 0.7);
 
