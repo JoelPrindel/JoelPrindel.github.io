@@ -1,0 +1,3 @@
+var weather = "sunny";
+weather = "rainy";
+console.log(weather);
