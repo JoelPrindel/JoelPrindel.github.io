@@ -107,7 +107,7 @@ Open up `js/init.js`. This file will help set up the entire game. First we need 
 **CODE:** Add the following lines of code into the game to create (first line), view (second line), and register the HUD with the window (third line).
 
 ```js
-var hud = opspark.makeHud();
+cvar hud = opspark.makeHud();
 view.addChild(hud);
 window.hud = hud;
 ```
